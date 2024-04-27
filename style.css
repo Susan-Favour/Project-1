@@ -1,0 +1,1591 @@
+#welcome-intro{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(125,64,152);
+    border-radius: 10px;
+    color: white;
+}
+#akira-logo{
+    border-radius: 70px;
+}
+#sign-up-link{
+    border-radius: 10px;
+    padding: 10px;
+}
+#sign-in-link{
+        border-radius: 10px;
+        padding: 10px;
+}
+
+
+#email-address{
+    border-radius: 15px;
+    padding: 10px;
+}
+#subscribe{
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#about-mentorship{
+    font-size: large;
+    font-family: 'Nunito', sans-serif;
+}
+#body{
+    display: flex;
+    justify-content: space-around;
+}
+#landing-page{
+    background-color: rgb(0, 166, 157);
+    border-radius: 10px;
+}
+#footer{
+    display: flex;
+    gap: 150px;
+    padding: 10px;
+    justify-content: space-around;
+}
+#copyright{
+    text-align: center;
+    color: gray;
+}
+#bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+}
+#join-team{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+#welcome-statement{
+    font-size: x-large;
+    font-style: oblique;
+}
+#sign-in{
+    background-color: rgb(0, 166, 157);
+    padding: 10px;
+    border-radius: 10px;
+}
+#sign-up2{
+    padding: 10px;
+    border-radius: 20px;
+    width: 20%;
+
+}
+
+#body-page{
+    display: flex;
+    justify-content: space-around;
+    height: 800px;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+
+}
+#sign-in-form{
+    border: solid black 2px;
+    background-color: rgb(0, 166, 157);
+    width: 700px;
+    height: 850px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 50px;
+}
+#name{
+   /* border-radius: 10px;*/
+    padding: 10px;
+    width: 60%;
+}
+#password{
+   /* border-radius: 10px; */
+    padding: 10px;
+    width: 60%;
+}
+#log-in{
+    border-radius: 20px;
+    padding: 10px;
+    width: 20%;
+}
+#remember-me{
+    margin-right: 28%;
+}
+
+
+
+
+
+#log-in2{
+    padding: 10px;
+    border-radius: 20px;
+    width: 20%;
+
+}
+#salutation{
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+    background-color: rgb(0, 166, 157);
+}
+#sign-up form{
+    margin-left: 20px;
+}
+#body{
+    background-color: rgb(0, 166, 157);
+
+}
+
+#login-heading{
+    font-size: xx-large;
+}
+#signin-heading{
+    color: white;
+    font-size: x-large;
+}
+#body{
+    background-color: rgb(0, 166, 157);
+
+}
+#body-page2{
+        display: flex;
+        justify-content: space-around;
+        height: 800px;
+        border-radius: 10px;
+}
+#sign-up3{
+    border-radius: 20px;
+    padding: 10px;
+    width: 20%
+}
+#sign-up3 a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+#mentor-link{
+    font-size: large;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Nunito', sans-serif;
+
+}
+#achievements-link{
+    font-size: large;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Nunito', sans-serif;
+
+}
+#to-do-list-link{
+    font-size: large;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Nunito', sans-serif;
+
+
+}
+#goals-link{
+    font-size: large;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Nunito', sans-serif;
+
+
+}
+#home-links{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#mentor-info{
+    text-align: center;
+    color: white;
+}
+#mentor-info2{
+    font-size: large;
+    color: white;
+    margin-right: 0%;
+    text-align: center;
+    
+}
+#mentor-page{
+    background-color: rgb(0, 166, 157);
+
+}
+#shirleen{
+    color: white;
+    font-size: large;
+}
+
+
+#body-mentor {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: rgb(0, 166, 157);
+    padding: 0;
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgb(125,64,152);
+    border: solid black;
+    height: 600px;
+}
+.mentor-info {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+p {
+    margin-bottom: 5px;
+}
+
+
+#home-links{
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    border: solid black;
+    height: 700px;
+    background-color: rgb(0, 166, 157);
+    background-image: url('/images/hands.png');
+}
+
+#mentor-link{
+    max-width: 800px;
+
+}
+
+#trevor-image{
+    border-radius: 0%;
+}
+
+
+
+
+#addgoal-page{
+    border: solid black 2px;
+    width: 800px;
+    text-align: center;
+    height: 200px;
+    background-color: rgb(125,64,152);
+
+}
+#goalpage{
+    margin-right: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+#goalinput{
+    height: 20px;
+    width: 370px;    
+}
+#button-goal{
+    background-color: rgb(0, 166, 157);
+width: 100px;
+height: 30px;
+border-radius: 10px;
+}
+#main-goal{
+    background-color: rgb(0, 166, 157);
+
+
+}
+
+#nyj{
+    font-size: larger;
+    background-color: rgb(0, 166, 157);
+    text-align: center;  
+}
+#nyj-main{
+    background-color: rgb(0, 166, 157);
+
+}
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#body3 {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.container3{
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgb(125,64,152);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10%;
+}
+#achieve-page{
+    background-color: rgb(0, 166, 157);
+
+}
+h2 {
+    text-align: center;
+}
+.input-container {
+    margin-bottom: 20px;
+}
+.input-container input[type="date"],
+.input-container input[type="text"] {
+    padding: 10px;
+    width: calc(50% - 5px);
+    margin-right: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.input-container button {
+    padding: 10px 20px;
+    background-color: rgb(0, 166, 157);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.input-container button:hover {
+    background-color: rgb(0, 166, 157);
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+.task {
+    display: flex;
+    align-items: center;
+}
+.task input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+
+
+#body2 {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 166, 157);
+
+
+}
+.container2 {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(125,64,152);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10%;
+}
+h2 {
+    text-align: center;
+}
+.input-container {
+    margin-bottom: 20px;
+}
+.input-container input[type="date"],
+.input-container input[type="text"] {
+    padding: 10px;
+    width: calc(50% - 5px);
+    margin-right: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.input-container button {
+    padding: 10px 20px;
+    background-color: rgb(0, 166, 157);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.input-container button:hover {
+    background-color: rgb(0, 166, 157);
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+.task {
+    display: flex;
+    align-items: center;
+}
+.task input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+
+@media screen and (min-width: 280px) and (max-width: 668px){
+    #welcome-intro{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: rgb(125,64,152);
+        border-radius: 10px;
+        color: white;
+    }
+    #akira-logo{
+        border-radius: 70px;
+    }
+    #sign-up-link{
+        border-radius: 10px;
+        /*padding: 10px;*/
+    }
+    #sign-in-link{
+            border-radius: 10px;
+            /*padding: 10px;*/
+    }
+    
+    
+    #email-address{
+        border-radius: 15px;
+        /*padding: 10px;*/
+    }
+    #subscribe{
+        border-radius: 15px;
+        /*padding: 10px;*/
+    }
+    
+    #about-mentorship{
+        font-size: large;
+        font-family: 'Nunito', sans-serif;
+    }
+    #body{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #landing-page{
+        border-radius: 10px;
+        background-color: rgb(0, 166, 157);
+
+    }
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        /*gap: 150px;*/
+        /*padding: 10px;*/
+        justify-content: space-around;
+    }
+    #copyright{
+        text-align: center;
+        color: gray;
+    }
+    #bottom{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        /*padding-top: 120px;*/
+    }
+    #join-team{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #welcome-statement{
+        font-size: x-large;
+        font-style: oblique;
+    }
+    #sign-in{
+        background-color: rgb(0, 166, 157);
+        /*padding: 10px;*/
+        border-radius: 10px;
+    }
+    #sign-up2{
+        /*padding: 10px;*/
+        border-radius: 10px;
+        width: 20%;
+    }
+    
+    #body-page{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        height: 800px;
+        border-radius: 10px;
+            background-color: #f4f4f4;
+    
+    }
+    #sign-in-form{
+        border: solid black 2px;
+        width: 700px;
+        background-color: rgb(0, 166, 157);
+        height: 850px;
+        border-radius: 10px;
+        text-align: center;
+        /*padding-top: 50px;*/
+    }
+    #name{
+        border-radius: 10px;
+       /* padding: 10px;*/
+        width: 60%;
+    }
+    #password{
+        border-radius: 10px;
+        /*padding: 10px;*/
+        width: 60%;
+    }
+    #log-in{
+        border-radius: 10px;
+       /* padding: 10px;*/
+        width: 30%;
+    }
+      
+    #log-in2{
+        /*padding: 10px;*/
+        border-radius: 10px;
+    }
+    #salutation{
+        text-align: center;
+        font-size: larger;
+        font-style: oblique;
+        background-color: rgb(0, 166, 157);
+    }
+    #sign-up form{
+       /* margin-left: 20px;*/
+    }
+    #body{
+        background-color: rgb(0, 166, 157);
+    
+    }
+    
+    #login-heading{
+        font-size: xx-large;
+    }
+    #signin-heading{
+        color: white;
+    }
+    #body{
+        background-color: rgb(0, 166, 157);    
+    }
+    #body-page2{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            height: 800px;
+            border-radius: 10px;
+    }
+    #sign-up3{
+        border-radius: 10px;
+        padding: 10px;
+    
+    }
+    
+    
+    #mentor-link{
+        font-size: x-large;
+        text-align: center;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+       /* padding: 5px;*/
+    }
+    #achievements-link{
+        font-size: x-large;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+      /*  padding: 5px;*/
+    }
+    #to-do-list-link{
+        font-size: x-large;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+     /*   padding: 5px;*/
+    
+    }
+    #home-links{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #mentor-info{
+        text-align: center;
+        color: white;
+    }
+    #mentor-info2{
+        font-size: x-large;
+        color: white;
+    }
+    #shirleen{
+        color: white;
+        font-size: x-large;
+    }
+    
+    
+    #body-mentor {
+        font-family: Arial, sans-serif;
+        margin: 0;
+       /* padding: 0;*/
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: rgb(125,64,152);
+        border: solid black;
+        height: 700px;
+    }
+    .mentor-info {
+        text-align: center;
+    }
+    img {
+        max-width: 100%;
+        border-radius: 50%;
+       /* margin-bottom: 20px;*/
+    }
+    h2 {
+        font-size: 60px;
+      /*  margin-bottom: 10px;*/
+    }
+    p {
+      /*  margin-bottom: 5px;*/
+    }
+    
+    
+    #home-links{
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 8px;
+        border: solid black;
+        height: 700px;
+        background-color: rgb(0, 166, 157);
+        background-image: url('/images/hands.png');
+    }
+    
+    #mentor-link{
+        max-width: 800px;
+    
+    }
+    
+    
+    
+    
+    #body3 {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+       /* margin: 0;*/
+       /* padding: 0;*/
+    }
+    .container3{
+        max-width: 500px;
+        margin: 50px auto;
+      /*  padding: 20px;*/
+        border-radius: 8px;
+        background-color: rgb(125,64,152);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+        text-align: center;
+    }
+    .input-container {
+       /* margin-bottom: 20px;*/
+    }
+    .input-container input[type="date"],
+    .input-container input[type="text"] {
+      /*  padding: 10px; */
+        width: calc(50% - 5px);
+        margin-right: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .input-container button {
+      /*  padding: 10px 20px; */
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .input-container button:hover {
+        background-color: #0056b3;
+    }
+    ul {
+        list-style-type: none;
+     /*   padding: 0;*/
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    .task {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .task input[type="checkbox"] {
+        margin-right: 10px;
+    }
+    
+    
+    
+    #body2 {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+       /* margin: 0;
+        padding: 0;*/
+    }
+    .container2 {
+        max-width: 500px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: rgb(125,64,152);
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+        text-align: center;
+    }
+    .input-container {
+        margin-bottom: 20px;
+    }
+    .input-container input[type="date"],
+    .input-container input[type="text"] {
+      /*  padding: 10px; */
+        width: calc(50% - 5px);
+        margin-right: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .input-container button {
+      /*  padding: 10px 20px; */
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .input-container button:hover {
+        background-color: #0056b3;
+    }
+    ul {
+        list-style-type: none;
+      /*  padding: 0; */
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    .task {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .task input[type="checkbox"] {
+        margin-right: 10px;
+    }
+
+
+
+
+    #addgoal-page{
+        border: solid black 2px;
+        /*width: 800px;*/
+        text-align: center;
+        height: 200px;
+        background-color: rgb(125,64,152);
+    
+    }
+    #goalpage{
+        /*margin-right: 50%;
+        margin-top: 20%;
+        margin-left: 25%;*/
+    }
+    #goalinput{
+        height: 20px;
+        width: 370px;    
+    }
+    #button-goal{
+    background-color: rgb(0, 166, 157);
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    }
+
+
+
+
+
+
+
+}
+
+@media screen and (min-width: 760px) and (max-width: 1025px){
+    #welcome-intro{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: rgb(125,64,152);
+        border-radius: 10px;
+        color: white;
+    }
+    #akira-logo{
+        border-radius: 70px;
+    }
+    #sign-up-link{
+        border-radius: 10px;
+        /*padding: 10px;*/
+    }
+    #sign-in-link{
+            border-radius: 10px;
+            /*padding: 10px;*/
+    }
+    
+    
+    #email-address{
+        border-radius: 15px;
+        /*padding: 10px;*/
+    }
+    #subscribe{
+        border-radius: 15px;
+        /*padding: 10px;*/
+    }
+    
+    #about-mentorship{
+        font-size: large;
+        font-family: 'Nunito', sans-serif;
+    }
+    #body{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #landing-page{
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+    }
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        /*gap: 150px;*/
+        /*padding: 10px;*/
+        justify-content: space-around;
+    }
+    #copyright{
+        text-align: center;
+        color: gray;
+    }
+    #bottom{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        /*padding-top: 120px;*/
+    }
+    #join-team{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #welcome-statement{
+        font-size: x-large;
+        font-style: oblique;
+    }
+    #sign-in{
+        background-color: rgb(0, 166, 157);
+        /*padding: 10px;*/
+        border-radius: 10px;
+    }
+    #sign-up2{
+        /*padding: 10px;*/
+        border-radius: 10px;
+        width: 20%;
+    }
+    
+    #body-page{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        height: 800px;
+        border-radius: 10px;
+            background-color: #f4f4f4;
+    
+    }
+    #sign-in-form{
+        border: solid black 2px;
+        background-color: rgb(0, 166, 157);
+        width: 700px;
+        height: 850px;
+        border-radius: 10px;
+        text-align: center;
+        /*padding-top: 50px;*/
+    }
+    #name{
+        border-radius: 10px;
+       /* padding: 10px;*/
+        width: 60%;
+    }
+    #password{
+        border-radius: 10px;
+        /*padding: 10px;*/
+        width: 60%;
+    }
+    #log-in{
+        border-radius: 10px;
+       /* padding: 10px;*/
+        width: 30%;
+    }
+      
+    #log-in2{
+        /*padding: 10px;*/
+        border-radius: 10px;
+    }
+    #salutation{
+        text-align: center;
+        font-size: larger;
+        font-style: oblique;
+        background-color: rgb(0, 166, 157);
+    }
+    #sign-up form{
+       /* margin-left: 20px;*/
+    }
+    #body{
+        background-color: rgb(0, 166, 157);
+    
+    }
+    
+    #login-heading{
+        font-size: xx-large;
+    }
+    #signin-heading{
+        color: white;
+    }
+    #body{
+        background-color: rgb(0, 166, 157);
+    
+    }
+    #body-page2{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            height: 800px;
+            border-radius: 10px;
+    }
+    #sign-up3{
+        border-radius: 10px;
+        padding: 10px;
+    
+    }
+    
+    
+    #mentor-link{
+        font-size: x-large;
+        text-align: center;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+       /* padding: 5px;*/
+    }
+    #achievements-link{
+        font-size: x-large;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+      /*  padding: 5px;*/
+    }
+    #to-do-list-link{
+        font-size: x-large;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+     /*   padding: 5px;*/
+    
+    }
+    #home-links{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #mentor-info{
+        text-align: center;
+        color: white;
+    }
+    #mentor-info2{
+        font-size: x-large;
+        color: white;
+    }
+    #shirleen{
+        color: white;
+        font-size: x-large;
+    }
+    
+    
+    #body-mentor {
+        font-family: Arial, sans-serif;
+        margin: 0;
+       /* padding: 0;*/
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: rgb(125,64,152);
+        border: solid black;
+        height: 700px;
+    }
+    .mentor-info {
+        text-align: center;
+    }
+    img {
+        max-width: 100%;
+        border-radius: 50%;
+       /* margin-bottom: 20px;*/
+    }
+    h2 {
+        font-size: 60px;
+      /*  margin-bottom: 10px;*/
+    }
+    p {
+      /*  margin-bottom: 5px;*/
+    }
+    
+    
+    #home-links{
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 8px;
+        border: solid black;
+        height: 700px;
+        background-color: rgb(0, 166, 157);
+        background-image: url('/images/hands.png');
+    }
+    
+    #mentor-link{
+        max-width: 800px;
+    
+    }
+    
+    
+    
+    
+    #body3 {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+       /* margin: 0;*/
+       /* padding: 0;*/
+    }
+    .container3{
+        max-width: 500px;
+        margin: 50px auto;
+      /*  padding: 20px;*/
+      background-color: rgb(125,64,152);
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+        text-align: center;
+    }
+    .input-container {
+       /* margin-bottom: 20px;*/
+    }
+    .input-container input[type="date"],
+    .input-container input[type="text"] {
+      /*  padding: 10px; */
+        width: calc(50% - 5px);
+        margin-right: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .input-container button {
+      /*  padding: 10px 20px; */
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .input-container button:hover {
+        background-color: #0056b3;
+    }
+    ul {
+        list-style-type: none;
+     /*   padding: 0;*/
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    .task {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .task input[type="checkbox"] {
+        margin-right: 10px;
+    }
+    
+    
+    
+    #body2 {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+       /* margin: 0;
+        padding: 0;*/
+    }
+    .container2 {
+        max-width: 500px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: rgb(125,64,152);
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+        text-align: center;
+    }
+    .input-container {
+        margin-bottom: 20px;
+    }
+    .input-container input[type="date"],
+    .input-container input[type="text"] {
+      /*  padding: 10px; */
+        width: calc(50% - 5px);
+        margin-right: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .input-container button {
+      /*  padding: 10px 20px; */
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .input-container button:hover {
+        background-color: #0056b3;
+    }
+    ul {
+        list-style-type: none;
+      /*  padding: 0; */
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    .task {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .task input[type="checkbox"] {
+        margin-right: 10px;
+    }
+
+}
+
+@media screen and (min-width: 1026px) and (max-width: 1200px){
+    #welcome-intro{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border-radius: 10px;
+        background-color: rgb(125,64,152);
+        color: white;
+    }
+    #akira-logo{
+        border-radius: 70px;
+    }
+    #sign-up-link{
+        border-radius: 10px;
+        /*padding: 10px;*/
+    }
+    #sign-in-link{
+            border-radius: 10px;
+            /*padding: 10px;*/
+    }
+    
+    
+    #email-address{
+        border-radius: 15px;
+        /*padding: 10px;*/
+    }
+    #subscribe{
+        border-radius: 15px;
+        /*padding: 10px;*/
+    }
+    
+    #about-mentorship{
+        font-size: large;
+        font-family: 'Nunito', sans-serif;
+    }
+    #body{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #landing-page{
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+    }
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        /*gap: 150px;*/
+        /*padding: 10px;*/
+        justify-content: space-around;
+    }
+    #copyright{
+        text-align: center;
+        color: gray;
+    }
+    #bottom{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        /*padding-top: 120px;*/
+    }
+    #join-team{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #welcome-statement{
+        font-size: x-large;
+        font-style: oblique;
+    }
+    #sign-in{
+        background-color: rgb(0, 166, 157);
+        /*padding: 10px;*/
+        border-radius: 10px;
+    }
+    #sign-up2{
+        /*padding: 10px;*/
+        border-radius: 10px;
+        width: 20%;
+    }
+    
+    #body-page{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        height: 800px;
+        border-radius: 10px;
+            background-color: #f4f4f4;
+    
+    }
+    #sign-in-form{
+        border: solid black 2px;
+        background-color: rgb(0, 166, 157);
+        width: 700px;
+        height: 850px;
+        border-radius: 10px;
+        text-align: center;
+        /*padding-top: 50px;*/
+    }
+    #name{
+        border-radius: 10px;
+       /* padding: 10px;*/
+        width: 60%;
+    }
+    #password{
+        border-radius: 10px;
+        /*padding: 10px;*/
+        width: 60%;
+    }
+    #log-in{
+        border-radius: 10px;
+       /* padding: 10px;*/
+        width: 30%;
+    }
+      
+    #log-in2{
+        /*padding: 10px;*/
+        border-radius: 10px;
+    }
+    #salutation{
+        text-align: center;
+        font-size: larger;
+        font-style: oblique;
+        background-color: rgb(0, 166, 157);
+    }
+    #sign-up form{
+       /* margin-left: 20px;*/
+    }
+    #body{
+        background-color: rgb(0, 166, 157);
+    
+    }
+    
+    #login-heading{
+        font-size: xx-large;
+    }
+    #signin-heading{
+        color: white;
+    }
+    #body{
+        background-color: rgb(0, 166, 157);
+    
+    }
+    #body-page2{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            height: 800px;
+            border-radius: 10px;
+    }
+    #sign-up3{
+        border-radius: 10px;
+        padding: 10px;
+    
+    }
+    
+    
+    #mentor-link{
+        font-size: x-large;
+        text-align: center;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+       /* padding: 5px;*/
+    }
+    #achievements-link{
+        font-size: x-large;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+      /*  padding: 5px;*/
+    }
+    #to-do-list-link{
+        font-size: x-large;
+        background-color: rgb(0, 166, 157);
+        border-radius: 10px;
+     /*   padding: 5px;*/
+    
+    }
+    #home-links{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #mentor-info{
+        text-align: center;
+        color: white;
+    }
+    #mentor-info2{
+        font-size: x-large;
+        color: white;
+    }
+    #shirleen{
+        color: white;
+        font-size: x-large;
+    }
+    
+    
+    #body-mentor {
+        font-family: Arial, sans-serif;
+        margin: 0;
+       /* padding: 0;*/
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: rgb(125,64,152);
+        border: solid black;
+        height: 700px;
+    }
+    .mentor-info {
+        text-align: center;
+    }
+    img {
+        max-width: 100%;
+        border-radius: 50%;
+       /* margin-bottom: 20px;*/
+    }
+    h2 {
+        font-size: 60px;
+      /*  margin-bottom: 10px;*/
+    }
+    p {
+      /*  margin-bottom: 5px;*/
+    }
+    
+    
+    #home-links{
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 8px;
+        border: solid black;
+        height: 700px;
+        background-color: rgb(0, 166, 157);
+        background-image: url('/images/hands.png');
+    }
+    
+    #mentor-link{
+        max-width: 800px;
+    
+    }
+    
+    
+    
+    
+    #body3 {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+       /* margin: 0;*/
+       /* padding: 0;*/
+    }
+    .container3{
+        max-width: 500px;
+        margin: 50px auto;
+      /*  padding: 20px;*/
+        border-radius: 8px;
+        background-color: rgb(125,64,152);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+        text-align: center;
+    }
+    .input-container {
+       /* margin-bottom: 20px;*/
+    }
+    .input-container input[type="date"],
+    .input-container input[type="text"] {
+      /*  padding: 10px; */
+        width: calc(50% - 5px);
+        margin-right: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .input-container button {
+      /*  padding: 10px 20px; */
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .input-container button:hover {
+        background-color: #0056b3;
+    }
+    ul {
+        list-style-type: none;
+     /*   padding: 0;*/
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    .task {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .task input[type="checkbox"] {
+        margin-right: 10px;
+    }
+    
+    
+    
+    #body2 {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+       /* margin: 0;
+        padding: 0;*/
+    }
+    .container2 {
+        max-width: 500px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: rgb(125,64,152);
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+        text-align: center;
+    }
+    .input-container {
+        margin-bottom: 20px;
+    }
+    .input-container input[type="date"],
+    .input-container input[type="text"] {
+      /*  padding: 10px; */
+        width: calc(50% - 5px);
+        margin-right: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .input-container button {
+      /*  padding: 10px 20px; */
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .input-container button:hover {
+        background-color: #0056b3;
+    }
+    ul {
+        list-style-type: none;
+      /*  padding: 0; */
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    .task {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .task input[type="checkbox"] {
+        margin-right: 10px;
+    }
+}
+
+
+
+
+
+
